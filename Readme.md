@@ -2,13 +2,13 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://res.cloudinary.com/dsyrsxgqf/image/upload/v1744290660/snorlax_zibcpr.jpg"  />
+</div>
+
 <br clear="both">
 
 <h4 align="left">- 🎯Aspiring Software Developer<br>-🎓2Yr@SSCBS(B.sc CS)<br>- 🌱Exploring MERN & Flutter<br>- 📧 ronak.23544@sscbs.du.ac.in</h4>
-
-###
-
-<img align="right" height="200" src="https://res.cloudinary.com/dsyrsxgqf/image/upload/v1744290660/snorlax_zibcpr.jpg"  />
 
 ###
 
