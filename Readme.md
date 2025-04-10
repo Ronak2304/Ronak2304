@@ -50,15 +50,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
 
-![Pacman Contribution Graph](https://Ronak2304.github.io/Ronak2304/pacman-contribution-graph.svg)
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronak2304/Ronak2304/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ronak2304/Ronak2304/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ronak2304/Ronak2304/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Ronak2304/Ronak2304/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
 
