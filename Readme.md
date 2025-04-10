@@ -56,7 +56,6 @@
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Ronak2304/Ronak2304/output/pacman-contribution-graph.svg">
 </picture>
 
-
 ###
 
 <div align="left">
