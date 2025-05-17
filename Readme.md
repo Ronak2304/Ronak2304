@@ -65,6 +65,9 @@
   <a href="https://x.com/ronak_nangia?t=O3IatmQAX_K-xpTtJ8Dpyg&s=09" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
+  <a href="https://leetcode.com/u/ronak2304/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="52" height="40" alt="leetcode logo" />
+  </a>
   <a href="https://discord.com/users/bt000000000007" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
