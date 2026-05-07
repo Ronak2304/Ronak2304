@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<h4 align="left">- 🎯Aspiring Software Developer<br>-🎓2Yr@SSCBS(B.sc CS)<br>- 🌱Exploring MERN & Flutter<br>- 📧 ronak.23544@sscbs.du.ac.in</h4>
+<h4 align="left">- 🎯Aspiring Consultant<br>-🎓3Yr@SSCBS(B.sc CS)<br>- 🌱Exploring Analytics & Problem-Solving Frameworks<br>- 📧 ronak.23544@sscbs.du.ac.in</h4>
 
 ###
 
